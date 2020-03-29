@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1582436545 source:/Users/nurulshadrina/Documents/RAY/UTSmosi/MOSI/main.cpp
+	<iostream>
+	<fstream>
+	<math.h>
+	<stdio.h>
+	<vector>
+	"gnuplot.h"
+
+1519292890 /Users/nurulshadrina/Documents/RAY/UTSmosi/MOSI/gnuplot.h
+	<stdio.h>
+	<string>
+	<vector>
+	<iostream>
+	<fstream>
+
